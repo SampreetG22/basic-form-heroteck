@@ -1,0 +1,26 @@
+{
+  "name": "submission-form",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SampreetG22/basic-form-heroteck.git"
+  },
+  "author": "Sampreet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SampreetG22/basic-form-heroteck/issues"
+  },
+  "homepage": "https://github.com/SampreetG22/basic-form-heroteck#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.0"
+  }
+}
